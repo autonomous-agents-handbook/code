@@ -1,4 +1,4 @@
-# Building Autonomous AI Agents with Claude — Companion Code
+# Building Autonomous AI Agents with Claude (Companion Code)
 
 This repository contains the complete, runnable Python code examples, architecture blueprints, and production guardrails from the book **Building Autonomous AI Agents with Claude**.
 
