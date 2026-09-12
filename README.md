@@ -44,3 +44,11 @@ python chapter-01-react-loop/agent.py
 ```
 **📜 Disclaimer**
 This repository contains code examples for educational purposes accompanying the book Building Autonomous AI Agents with Claude. It is an independent publication and is not affiliated with, sponsored by, or endorsed by Anthropic, PBC.
+
+---
+
+## 🛠️ Errata & API Updates
+
+AI APIs evolve rapidly. If an Anthropic SDK update introduces deprecations or changes to parameter signatures:
+- Check the [Issues](../../issues) tab for known breaking changes and community fixes.
+- Submit a pull request or open an issue if you encounter code behavior that deviates from the printed book.
